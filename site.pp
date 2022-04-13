@@ -1,5 +1,5 @@
 node default {
-  file {'/home/puppeteer/puppet/README.md':
+  file {'/root/README':
     ensure => file,
   }
 }
